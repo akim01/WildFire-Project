@@ -10,7 +10,9 @@ What this project aims to do is to detect fires from surveillance footage using 
 
 ## Data
 The dataset for this project was taken from AlertWildfire's webpage for livestream footage of firehotspots, and their youtube channel for videos of past fires.
+
 Not fire/ livestrem: http://www.alertwildfire.org/
+
 Fire feeds: https://www.youtube.com/user/nvseismolab/videos?disable_polymer=1
 
 ## Model
